@@ -1,0 +1,11 @@
+C:\proyectos\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.csprojAssemblyReference.cache
+C:\proyectos\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.csproj.CoreCompileInputs.cache
+C:\proyectos\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.AssemblyInfoInputs.cache
+C:\proyectos\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.AssemblyInfo.cs
+C:\proyectos\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.deps.json
+C:\proyectos\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.runtimeconfig.json
+C:\proyectos\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.runtimeconfig.dev.json
+C:\proyectos\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.dll
+C:\proyectos\03.areatriangulo\bin\Debug\netcoreapp2.2\03.areatriangulo.pdb
+C:\proyectos\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.dll
+C:\proyectos\03.areatriangulo\obj\Debug\netcoreapp2.2\03.areatriangulo.pdb
