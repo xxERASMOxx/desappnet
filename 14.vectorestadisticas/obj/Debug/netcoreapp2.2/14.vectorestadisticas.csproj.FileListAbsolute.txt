@@ -1,0 +1,11 @@
+C:\proyectos\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.deps.json
+C:\proyectos\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.runtimeconfig.json
+C:\proyectos\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.runtimeconfig.dev.json
+C:\proyectos\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.dll
+C:\proyectos\14.vectorestadisticas\bin\Debug\netcoreapp2.2\14.vectorestadisticas.pdb
+C:\proyectos\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.csprojAssemblyReference.cache
+C:\proyectos\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.csproj.CoreCompileInputs.cache
+C:\proyectos\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.AssemblyInfoInputs.cache
+C:\proyectos\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.AssemblyInfo.cs
+C:\proyectos\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.dll
+C:\proyectos\14.vectorestadisticas\obj\Debug\netcoreapp2.2\14.vectorestadisticas.pdb
