@@ -1,0 +1,11 @@
+C:\proyectos\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.deps.json
+C:\proyectos\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.runtimeconfig.json
+C:\proyectos\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.runtimeconfig.dev.json
+C:\proyectos\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.dll
+C:\proyectos\15.controlbancario\bin\Debug\netcoreapp2.2\15.controlbancario.pdb
+C:\proyectos\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.csprojAssemblyReference.cache
+C:\proyectos\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.csproj.CoreCompileInputs.cache
+C:\proyectos\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.AssemblyInfoInputs.cache
+C:\proyectos\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.AssemblyInfo.cs
+C:\proyectos\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.dll
+C:\proyectos\15.controlbancario\obj\Debug\netcoreapp2.2\15.controlbancario.pdb
