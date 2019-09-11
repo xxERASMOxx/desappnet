@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 namespace ControlBancario.Clases
 {
-    public classs Banco{
+    public class Banco{
 
         private string nombre;
 
