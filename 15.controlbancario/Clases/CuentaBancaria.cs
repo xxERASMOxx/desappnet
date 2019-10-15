@@ -1,37 +1,35 @@
-namespace ControlBancario.clases
+namespace ControlBancario.Clases
 {
-    public class CuentaBancaria{
+    public class CuentaBancaria {
+         
+        protected double saldo; // permite acceso a las clases q hereden
 
-        protected double saldo;//permite acceso alas clases que hereden 
-
-        public CuentaBancaria(){}
-        public CuentaBancaria(double saldo){
+        public CuentaBancaria() {}
+        public CuentaBancaria(double saldo) {
             this.saldo = saldo;
         }
-
-        
-        public double Saldo   
+             
+        public double Saldo
         {
             get { return saldo; }
-            
         }
-        
-        public void Deposita(double cantidad){
-            if(cantidad > 0)
+
+        public void Deposita(double cantidad) {
+            if(cantidad>0) 
                 saldo+=cantidad;
         }
-
-        public virtual bool Retira(double cantidad){// permite sobrecarga
-            if(saldo >= cantidad){
+        
+        public virtual bool Retira(double cantidad)  // permite sobrecarga
+        {
+            if(saldo>=cantidad) {
                 saldo-=cantidad;
                 return true;
-            }else return false;
+            } else return false;
         }
-
-
-
-
+        
+        
 
     }
+
 
 }
