@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj": {}
+    "C:\\proyectos\\dvdCollectionv5\\dvdCollection.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj": {
+    "C:\\proyectos\\dvdCollectionv5\\dvdCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj",
-        "projectName": "ContosoUniversity",
-        "projectPath": "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\proyectos\\dvdCollectionv5\\dvdCollection.csproj",
+        "projectName": "dvdCollection",
+        "projectPath": "C:\\proyectos\\dvdCollectionv5\\dvdCollection.csproj",
         "packagesPath": "C:\\Users\\mundo\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\ContosoUniversityv3\\obj\\",
+        "outputPath": "C:\\proyectos\\dvdCollectionv5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

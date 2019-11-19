@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj": {}
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj": {
+    "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj",
-        "projectName": "ContosoUniversity",
-        "projectPath": "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\mundo\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\ContosoUniversityv3\\obj\\",
+        "projectUniqueName": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj",
+        "projectName": "dvdCollection",
+        "projectPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/dvdCollection.csproj",
+        "packagesPath": "/Users/castr/.nuget/packages/",
+        "outputPath": "/Users/castr/Google Drive/Uaz2019/ClasesAD2019/05.desapp.ic/ProyectosNET/dvdCollectionv4/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mundo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/castr/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj": {}
+    "C:\\proyectos\\dvdCollection\\dvdCollection.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj": {
+    "C:\\proyectos\\dvdCollection\\dvdCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj",
-        "projectName": "ContosoUniversity",
-        "projectPath": "C:\\proyectos\\ContosoUniversityv3\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\proyectos\\dvdCollection\\dvdCollection.csproj",
+        "projectName": "dvdCollection",
+        "projectPath": "C:\\proyectos\\dvdCollection\\dvdCollection.csproj",
         "packagesPath": "C:\\Users\\mundo\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\ContosoUniversityv3\\obj\\",
+        "outputPath": "C:\\proyectos\\dvdCollection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,19 +50,11 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.EntityFrameworkCore.SQLite": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[2.2.0, )"
             }
           },
           "imports": [
