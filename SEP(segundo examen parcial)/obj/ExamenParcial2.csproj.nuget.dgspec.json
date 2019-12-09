@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mando\\Documents\\desappnet\\ExamenParcial2\\ExamenParcial2.csproj": {}
+    "C:\\proyectos\\SEP(segundo examen parcial)\\ExamenParcial2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mando\\Documents\\desappnet\\ExamenParcial2\\ExamenParcial2.csproj": {
+    "C:\\proyectos\\SEP(segundo examen parcial)\\ExamenParcial2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mando\\Documents\\desappnet\\ExamenParcial2\\ExamenParcial2.csproj",
+        "projectUniqueName": "C:\\proyectos\\SEP(segundo examen parcial)\\ExamenParcial2.csproj",
         "projectName": "ExamenParcial2",
-        "projectPath": "C:\\Users\\mando\\Documents\\desappnet\\ExamenParcial2\\ExamenParcial2.csproj",
-        "packagesPath": "C:\\Users\\mando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mando\\Documents\\desappnet\\ExamenParcial2\\obj\\",
+        "projectPath": "C:\\proyectos\\SEP(segundo examen parcial)\\ExamenParcial2.csproj",
+        "packagesPath": "C:\\Users\\mundo\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectos\\SEP(segundo examen parcial)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\mundo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
