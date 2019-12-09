@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using MvcMovie.Models;
+using _17.MvcMovie.Models;
 
-namespace MvcMovie.Controllers
+namespace _17.MvcMovie.Controllers
 {
     public class MoviesController : Controller
     {

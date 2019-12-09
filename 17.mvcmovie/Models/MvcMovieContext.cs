@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace MvcMovie.Models
+namespace _17.MvcMovie.Models
 {
     public class MvcMovieContext : DbContext
     {

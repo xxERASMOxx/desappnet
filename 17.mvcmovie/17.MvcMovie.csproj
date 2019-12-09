@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <RootNamespace>MvcMovie</RootNamespace>
+    <RootNamespace>_17.MvcMovie</RootNamespace>
   </PropertyGroup>
 
 
